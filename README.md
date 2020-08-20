@@ -3,7 +3,6 @@
 ### Hi there :wave:
 #### You can call me Bah, I'm a Front-End developer :computer:
 
-- 🔭 I’m currently working on a social project.
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 👯 I’m looking to collaborate on projects to help me improve my skills.
 
