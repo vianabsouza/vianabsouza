@@ -1,9 +1,15 @@
-[![Linkedin Badge](https://img.shields.io/badge/-BarbaraViana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vianabsouza/)](https://www.linkedin.com/in/vianabsouza/) [![Gmail Badge](https://img.shields.io/badge/-vianabsouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vianabsouza@gmail.com)](mailto:vianabsouza@gmail.com)
+<h1 align="center"> Hi folks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h3 align="center"> I'm a Front-End developer on the rise!</h3>
+<br>
+<img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"/>
+<p>:computer: I’m currently learning JS and improving my skills in HTML and CSS.</>
+<p>:mega: How to reach me: &nbsp; 
+  <a href="mailto:vianabsouza@gmail.com">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+  </a> &nbsp;  
+  <a href="https://www.linkedin.com/in/vianabsouza">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+  </a>
+</p>
 
-### Hi there :wave:
-#### You can call me Bah, I'm a Front-End developer :computer:
-
-- 🌱 I’m currently learning HTML, CSS and JS.
-- 👯 I’m looking to collaborate on projects to help me improve my skills.
-
-“Simplicity is the soul of efficiency.” – Austin Freeman
+> *“Simplicity is the soul of efficiency.” – Austin Freeman*
