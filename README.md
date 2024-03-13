@@ -1,5 +1,5 @@
 <h1 align="center"> Hi folks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<h3 align="center"> I'm a Frontend developer on the rise!</h3>
+<h3 align="center"> I'm a frontend developer on the rise!</h3>
 <br>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"/>
 <p>:computer: I’m currently learning React and improving my JS skills.</>
