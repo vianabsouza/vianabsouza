@@ -2,7 +2,7 @@
 <h3 align="center"> I'm a Front-End developer on the rise!</h3>
 <br>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif"/>
-<p>:computer: I’m currently learning JS and improving my skills in HTML and CSS.</>
+<p>:computer: I’m currently React and improving my JS skills.</>
 <p>:mega: How to reach me: &nbsp; 
   <a href="mailto:vianabsouza@gmail.com">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
